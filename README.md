@@ -4,7 +4,7 @@
 
 > The "Hello World App Front-end" is a web application that return a random greeting by clicking on the button generator.
 
-> ### Link to [Hello_react_back_end](https://github.com/cynthiainga/hello_react_back_end)
+> ### Link to [Hello_rails_back_end](https://github.com/cynthiainga/hello_rails_back_end)
 ## Built With
 
 - Ruby on Rails
