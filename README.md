@@ -1,62 +1,59 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello World App Front-end
 
-> Description the project.
+> The "Hello World App Front-end" is a web application that return a random greeting by clicking on the button generator.
 
-
+> ### Link to [Hello_react_back_end](https://github.com/cynthiainga/hello_react_back_end)
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- Ruby on Rails
+- Postgresql
+- React
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
 
 ### Setup
 
+1. Download the `Zip` file or **clone the repository with**:
+
+```bash
+git clone https://github.com/cynthiainga/hello_react_front_end.git
+```
+2. To access the project folder, navigate to the folder:
+
+```bash
+cd hello_react_front_end
+```
+
 ### Install
 
-### Usage
+```
+npm install
+```
 
-### Run tests
+### Run the app
 
-### Deployment
+- To run the server
+```
+npm run start
+```
 
+## Author
 
+👤 **Candy inga Cynthia**
 
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@cynthiainga](https://github.com/cynthiainga)
+- Twitter: [@CynthiaInga_C](https://twitter.com/CynthiaInga_C)
+- LinkedIn: [Cynthia Inga](https://www.linkedin.com/in/cynthia-inga/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/cynthiainga/hello_react_front_end/issues).
 
 ## Show your support
 
@@ -64,9 +61,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Thanks to my coding partners, morning session team, and standup team patners for their contribution.
+- [Microverse](https://www.microverse.org/) for their support.
 
 ## 📝 License
 
